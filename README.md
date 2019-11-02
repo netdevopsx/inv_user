@@ -1,1 +1,1 @@
-# inv_user
+# The user specific inventory
